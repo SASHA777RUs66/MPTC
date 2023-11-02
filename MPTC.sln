@@ -5,15 +5,17 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{2428E8F2-18F5-4587-BA21-7788B77BF7C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c# практос 1", "c# практос 1\c# практос 1.csproj", "{75A36429-C662-4EB0-AAE6-1D08272E49FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c# практос 1", "c# практос 1\c# практос 1.csproj", "{75A36429-C662-4EB0-AAE6-1D08272E49FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "проктос номер 2", "проктос номер 2\проктос номер 2.csproj", "{56F0A650-450B-4BB0-AA38-01BC8439E7CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "проктос номер 2", "проктос номер 2\проктос номер 2.csproj", "{56F0A650-450B-4BB0-AA38-01BC8439E7CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "проктос 3", "проктос 3\проктос 3.csproj", "{242802F0-2D15-4E5C-AD97-941FB286129C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "проктос 3", "проктос 3\проктос 3.csproj", "{242802F0-2D15-4E5C-AD97-941FB286129C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "проктос 5", "проктос 5\проктос 5.csproj", "{DBD9F8EB-8598-4AE8-A5FC-535B54CB401B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "проктос 5", "проктос 5\проктос 5.csproj", "{DBD9F8EB-8598-4AE8-A5FC-535B54CB401B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "проктос 6", "проктос 6\проктос 6.csproj", "{4D0C6176-DFD2-4FEA-92D3-9061E0514187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "проктос 6", "проктос 6\проктос 6.csproj", "{4D0C6176-DFD2-4FEA-92D3-9061E0514187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практос4", "Практос4\Практос4.csproj", "{07F105E7-D1E0-40D5-9260-DD4F844E851D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4D0C6176-DFD2-4FEA-92D3-9061E0514187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D0C6176-DFD2-4FEA-92D3-9061E0514187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D0C6176-DFD2-4FEA-92D3-9061E0514187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F105E7-D1E0-40D5-9260-DD4F844E851D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F105E7-D1E0-40D5-9260-DD4F844E851D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F105E7-D1E0-40D5-9260-DD4F844E851D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F105E7-D1E0-40D5-9260-DD4F844E851D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
